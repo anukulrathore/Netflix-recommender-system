@@ -1,0 +1,1 @@
+This is a recommender system based on TV shows and movies available on netflix.This recommender system is built using dataset of netflix downloaded from Kaggle.After applying various preprocessing techniques this system was built.
